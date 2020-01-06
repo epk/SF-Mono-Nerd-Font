@@ -8,4 +8,11 @@ Powerline glyphs allow for pretty and practical statuslines, as seen in [the ori
 
 Works on macOS, Linux and Windows.
 
+## Install instructions (Mac)
+
+```shell
+brew tap epk/epk
+brew cask install font-sf-mono-powerline
+```
+
 For personal use only.
