@@ -1,6 +1,6 @@
-# SF-Mono-Powerline
+# SF-Mono-Nerd-Font
 
-![SF Mono Powerline](Prompt.png)
+![SF Mono Nerd Font](Prompt.png)
 
 ## Apple's gorgeous SF Mono font patched with [the Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher)
 
