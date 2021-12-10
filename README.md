@@ -18,4 +18,4 @@ brew cask install font-sf-mono-nerd-font
 brew install --cask font-sf-mono-nerd-font
 ```
 
-For personal use only.
+This is intended for my personal use only.
