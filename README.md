@@ -15,7 +15,7 @@ brew tap epk/epk
 brew cask install font-sf-mono-nerd-font
 
 # Homebrew >= 2.6.0
-brew install --cask font-sf-mono-nerd-font
+brew install font-sf-mono-nerd-font
 ```
 
 This is intended for my personal use only.
