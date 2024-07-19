@@ -2,9 +2,7 @@
 
 ![SF Mono Nerd Font](Prompt.png)
 
-## Apple's SF Mono font patched with [the Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher)
-
-Works on macOS, Linux and Windows.
+Apple's SF Mono font patched with [the Nerd Fonts patcher](https://github.com/ryanoasis/nerd-fonts#font-patcher)
 
 ## Install instructions (Mac)
 
